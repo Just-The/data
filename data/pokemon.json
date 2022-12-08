@@ -11551,8 +11551,7 @@
         ], "detailPageURL": "/us/pokedex/type-null", "weight": 265.7, "weakness": [
             "Fighting"
         ], "number": "772", "height": 75, "collectibles_slug": "type-null", "featured": 
-        "true", "slug": "type-null", "name": "Type: Null", "ThumbnailAltText": "Type: 
-        Null",
+        "true", "slug": "type-null", "name": "Type: Null", "ThumbnailAltText": "Type: Null",
         "ThumbnailImage": 
 "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/772.png",
         "id": 772, "type": [
@@ -11722,8 +11721,7 @@
         ], "detailPageURL": "/us/pokedex/tapu-koko", "weight": 45.2, "weakness": [
             "Poison", "Ground"
         ], "number": "785", "height": 71, "collectibles_slug": "tapu-koko", "featured": 
-        "true", "slug": "tapu-koko", "name": "Tapu Koko", "ThumbnailAltText": "Tapu 
-        Koko",
+        "true", "slug": "tapu-koko", "name": "Tapu Koko", "ThumbnailAltText": "Tapu Koko",
         "ThumbnailImage": 
 "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/785.png",
         "id": 785, "type": [
@@ -11735,8 +11733,7 @@
         ], "detailPageURL": "/us/pokedex/tapu-lele", "weight": 41, "weakness": [
             "Ghost", "Steel", "Poison"
         ], "number": "786", "height": 47, "collectibles_slug": "tapu-lele", "featured": 
-        "true", "slug": "tapu-lele", "name": "Tapu Lele", "ThumbnailAltText": "Tapu 
-        Lele",
+        "true", "slug": "tapu-lele", "name": "Tapu Lele", "ThumbnailAltText": "Tapu Lele",
         "ThumbnailImage": 
 "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/786.png",
         "id": 786, "type": [
@@ -11748,8 +11745,7 @@
         ], "detailPageURL": "/us/pokedex/tapu-bulu", "weight": 100.3, "weakness": [
             "Steel", "Fire", "Flying", "Ice", "Poison"
         ], "number": "787", "height": 75, "collectibles_slug": "tapu-bulu", "featured": 
-        "true", "slug": "tapu-bulu", "name": "Tapu Bulu", "ThumbnailAltText": "Tapu 
-        Bulu",
+        "true", "slug": "tapu-bulu", "name": "Tapu Bulu", "ThumbnailAltText": "Tapu Bulu",
         "ThumbnailImage": 
 "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/787.png",
         "id": 787, "type": [
@@ -11761,8 +11757,7 @@
         ], "detailPageURL": "/us/pokedex/tapu-fini", "weight": 46.7, "weakness": [
             "Grass", "Electric", "Poison"
         ], "number": "788", "height": 51, "collectibles_slug": "tapu-fini", "featured": 
-        "true", "slug": "tapu-fini", "name": "Tapu Fini", "ThumbnailAltText": "Tapu 
-        Fini",
+        "true", "slug": "tapu-fini", "name": "Tapu Fini", "ThumbnailAltText": "Tapu Fini",
         "ThumbnailImage": 
 "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/788.png",
         "id": 788, "type": [
