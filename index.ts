@@ -9,14 +9,15 @@ export type ErrorObject = {
 
 
 export type FunctionReturnValue = {
-    default: IndexedObject|IndexedObject[]|ErrorObject;
+    default: IndexedObject|IndexedObject[]|boolean;
+    err?: Error;
 }
 
 export type ReturnValue = Promise<FunctionReturnValue>;
 
 const getTheData = async (fileName: string):ReturnValue => {
     // const fileExists = await ensureFile(`./data/${fileName}.json`);
-    let output:IndexedObject[]|IndexedObject|ErrorObject;
+    let output:FunctionReturnValue;
     try {
         output = await import(`./data/${fileName}.json`, {
             assert: {
