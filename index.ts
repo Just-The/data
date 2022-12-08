@@ -7,7 +7,12 @@ export type ErrorObject = {
     err: Error;
 }
 
-export type ReturnValue = Promise<IndexedObject|IndexedObject[]|ErrorObject>;
+
+export type FunctionReturnValue = {
+    default: IndexedObject|IndexedObject[]|ErrorObject;
+}
+
+export type ReturnValue = Promise<FunctionReturnValue>;
 
 const getTheData = async (fileName: string):ReturnValue => {
     // const fileExists = await ensureFile(`./data/${fileName}.json`);
