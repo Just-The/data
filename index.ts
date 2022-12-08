@@ -1,7 +1,3 @@
-import { ensureFile } from "https://deno.land/std@0.167.0/fs/ensure_file.ts";
-
-
-
 export type IndexedObject = {
     [key: string]: string|boolean|number|IndexedObject
 }
